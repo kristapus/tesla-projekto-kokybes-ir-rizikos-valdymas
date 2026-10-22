@@ -1,0 +1,23 @@
+# Office lock and recovery files
+~$*
+*.tmp
+*.temp
+*.log
+*.bak
+*.asd
+*.wbk
+
+# Private intermediate work and caches
+/work/
+/tmp/
+/temp/
+/build/
+/.codex-finalizer/
+node_modules/
+__pycache__/
+*.pyc
+
+# Local operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
