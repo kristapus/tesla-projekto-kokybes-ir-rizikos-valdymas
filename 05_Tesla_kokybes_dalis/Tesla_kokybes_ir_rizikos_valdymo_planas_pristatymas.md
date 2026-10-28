@@ -1,6 +1,6 @@
 # Tesla projekto pristatymas ir kalbėjimo pastabos
 
-Pristatymas suderintas su pagrindinio plano DOCX v0.3. 2026-10-29 aptariama kokybės dalis; rizikų dalis lieka kitam etapui. Žemiau pateiktas tikras PPTX turinys ir jo kalbėtojo pastabos.
+Pristatymas suderintas su pagrindinio plano DOCX v0.4 kokybės dalimi. Skaidrių tekstas ir kalbėjimo pastabos nekeisti, nes apimtis, K-01–K-10 ribos ir pristatomi faktai išlieka tie patys. 2026-10-29 aptariama kokybės dalis; rizikų dalis lieka kitam etapui. Žemiau pateiktas tikras PPTX turinys ir jo kalbėtojo pastabos.
 
 ## 1 skaidrė
 

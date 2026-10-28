@@ -4,7 +4,7 @@ KTU modulis **S190M182 „Projektų rizikos ir kokybės valdymas“**. Grupė: *
 
 Tęsiame ankstesnių semestrų projektą ir rengiame jo kokybės bei rizikos valdymo planą. Pagal naujesnės ataskaitos uždavinius darbinė apimtis yra tvarumo komunikacija Baltijos šalyse, 2 teminiai renginiai, 2 CSR akcijos ir 3 trumpi vaizdo įrašai per aktyvų mėnesį. Šią siauresnę bazę grupė dar turi peržiūrėti.
 
-**Būsena 2026-10-22:** parengta kokybės dalis, 10 kokybės kriterijų ir 8 skaidrių santrauka. Pagrindinis dokumentas yra v0.3, jo PDF kopija – 23 puslapių. Rizikų dalis dar neužbaigta. Rodiklių ribos, vardiniai vaidmenys, kampanijos trukmė ir biudžeto neatitikimai dar nesuderinti. Faktinių kampanijos ar CSR rezultatų matavimų nepateikta; pavyzdiniai skaičiavimai nėra atliktų veiklų įrodymai.
+**Būsena 2026-10-28:** kokybės dalis parengta pagal užduoties šablono 1–5 skyrius: išlaikyti 10 kriterijų, papildytos fazių ir procesų lentelės, renginio, CSR ir poveikio vertinimo procedūros, kontrolės protokolas bei patikrų sąnaudų modelis. Pagrindinis dokumentas yra v0.4, jo PDF kopija – 23 puslapių. Esama 8 skaidrių kokybės santrauka išlieka suderinta. Rizikų dalis šia užduotimi nerengta pagal žmogaus nurodymą. Rodiklių ribos, vardiniai vaidmenys, kampanijos trukmė ir biudžeto neatitikimai dar nesuderinti. Faktinių kampanijos ar CSR rezultatų matavimų nepateikta; pavyzdiniai skaičiavimai nėra atliktų veiklų įrodymai.
 
 ## Bendra saugykla
 

@@ -1,14 +1,14 @@
 # Projekto santrauka ir DI agentų darbo taisyklės
 
-Šios taisyklės taikomos šiam aplankui ir visiems jo poaplankiams. Jos skirtos tęsti KTU modulio **S190M182 „Projektų rizikos ir kokybės valdymas“** projektą **„Tesla įvaizdžio gerinimas“**. Aktualu nuo 2026-10-22.
+Šios taisyklės taikomos šiam aplankui ir visiems jo poaplankiams. Jos skirtos tęsti KTU modulio **S190M182 „Projektų rizikos ir kokybės valdymas“** projektą **„Tesla įvaizdžio gerinimas“**. Aktualu nuo 2026-10-28.
 
 ## Greita pradžia ir dabartinė būsena
 
-Tai ankstesnių semestrų projekto tęsinys. Artimiausia užduotis – **2026-10-29 pristatyti kokybės dalies pažangą**. Parengtas konkretus kokybės planas su 10 kriterijų, kontrolės eiga ir hipotetiniu pavyzdžiu. Rizikų dalis dar neužbaigta. Tolesnį darbą lemia žmogaus dabartinė užduotis.
+Tai ankstesnių semestrų projekto tęsinys. Artimiausia užduotis – **2026-10-29 pristatyti kokybės dalies pažangą**. Parengta kokybės dalis pagal užduoties šablono 1–5 skyrius: 10 kriterijų, fazių ir procesų lentelės, video, renginių ir CSR procedūros, poveikio matavimas, kontrolė, tobulinimas ir patikrų sąnaudų modelis. Rizikų dalis dar neužbaigta; 2026-10-28 žmogus aiškiai nurodė jos nerengti šioje užduotyje. Tolesnį darbą lemia žmogaus dabartinė užduotis.
 
-**Perduodama versija:** DOCX v0.3, iš jo gautos PDF ir MD kopijos; PDF 23 psl. Pristatymas turi 8 skaidres ir tikrų kalbėjimo pastabų MD. Tai dabartinio rezultato apimtis, o ne privalomas puslapių ar skaidrių skaičius. Pakeitus būseną, atnaujinti šią santrauką ir pakeitimų žurnalą.
+**Perduodama versija:** DOCX v0.4, iš jo gautos PDF ir MD kopijos; PDF 23 psl. Pristatymas turi 8 skaidres ir tikrų kalbėjimo pastabų MD. Tai dabartinio rezultato apimtis, o ne privalomas puslapių ar skaidrių skaičius. Pakeitus būseną, atnaujinti šią santrauką ir pakeitimų žurnalą.
 
-**Liko suderinti:** siauresnę komunikacijos / CSR apimtį, vardinius vaidmenis, aktyvius mėnesius M, naujas rodiklių ribas, partnerius ir datas, finansinių lentelių prieštaravimus. Siūlomas paskirstymas: Kristupas – koordinavimas / renginiai / CSR, Lukas – turinys, Žygimantas – kokybė / duomenys. Tai pasiūlymas, ne patvirtintos pareigos. Atviri sprendimai SP-01–SP-06 išvardyti žurnale.
+**Liko suderinti:** siauresnę komunikacijos / CSR apimtį, vardinius vaidmenis, aktyvius mėnesius M ir savaites W, naujas rodiklių ribas, partnerius ir datas, finansinių lentelių prieštaravimus. Siūlomas paskirstymas: Kristupas – koordinavimas / renginiai / CSR, Lukas – turinys, Žygimantas – kokybė / duomenys. Tai pasiūlymas, ne patvirtintos pareigos. Atviri sprendimai SP-01–SP-06 išvardyti žurnale.
 
 **Terminai pagal 2026-10-22 peržiūrėtą Moodle:** 2026-10-29 kokybės progresas; 2026-11-26 rizikų progresas; 2026-12-13 23:59 galutinio plano įkėlimas; 2026-12-17 konsultacija; sausį individualus gynimas, tiksli data nepatvirtinta. Vėliau patikrinti oficialius pakeitimus. Pristatymo trukmė ir privalomas skaidrių skaičius nepaskelbti.
 
@@ -37,7 +37,7 @@ Oficialūs šaltiniai: [darbo aprašas](https://moodle.ktu.edu/mod/page/view.php
 ## Prieš pradedant
 
 1. Perskaityk šį failą ir naujausius `PAKEITIMU_ZURNALAS.md` įrašus.
-2. Perskaityk aktualaus darbo pagrindą: `05_Tesla_kokybes_dalis/Tesla_kokybes_ir_rizikos_valdymo_planas.docx`. Dabartinė perduodama versija – **0.3**; vėlesnę versiją nustatyk pagal dokumentą ir pakeitimų žurnalą, ne pagal šią užfiksuotą reikšmę.
+2. Perskaityk aktualaus darbo pagrindą: `05_Tesla_kokybes_dalis/Tesla_kokybes_ir_rizikos_valdymo_planas.docx`. Dabartinė perduodama versija – **0.4**; vėlesnę versiją nustatyk pagal dokumentą ir pakeitimų žurnalą, ne pagal šią užfiksuotą reikšmę.
 3. Patikrink konkrečiai užduočiai reikalingus oficialius reikalavimus ir šaltinius. Peržiūrėk ir aktualią failo kopiją diske, nes kolega galėjo ją pakeisti po ankstesnio pokalbio.
 4. Trumpai įvardyk, ką keisi ir kuo remsiesi. Pradėk vykdyti aiškią užduotį; jau patvirtintos temos ar grupės iš naujo neklausk.
 

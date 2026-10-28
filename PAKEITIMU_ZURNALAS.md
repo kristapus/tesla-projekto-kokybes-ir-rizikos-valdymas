@@ -107,3 +107,18 @@ Toliau pateikiami vėlesni pakeitimai.
 - **Patikra:** prieš inicijavimą remote buvo pasiekiamas ir tuščias; inventorizuoti 54 projekto failai, apie 10 MB; techninių scenarijų ir laikinų failų nerasta. Galutiniai dokumentai, šaltiniai ir tikrų versijų archyvas įtraukiami į pradinį commit. Push rezultatas tikrinamas sulyginant vietinį commit su remote main.
 - **Versija:** DOCX v0.3 ir jo kopijų turinys nekeisti.
 - **Archyvas:** 06_Archyvas/2026-10-22_pries_git_ikelima.
+
+
+### 2026-10-28 21:47 Europe/Vilnius — kokybės dalis pritaikyta užduoties šablonui
+
+- **Vykdytojas / užduotis:** DI agentas pagal Kristupo prašymą atlikti užduotį pagal `Projekto_kokybes_ir_rizikos_planas_uzduotis_2026.docx` ir projekto temą. Žmogus patikslino: „Rizikos dalies nedaryk, daryk tik kokybes“. Atvertus Word ir PowerPoint failus žmogus išsaugojo ir uždarė prieš bendrų failų keitimą.
+- **Pagrindas:** aktualus DOCX v0.3, nepakeistos užduoties ir KTU formato šablonų kopijos, A1 projekto aprašas, A2 istorinių įkainių lentelė, vietiniai reikalavimai ir šaltinių neatitikimų registras. Nauji rinkos ar teisės faktai nepridėti; Moodle datos naujai netikrintos.
+- **Versija ir turinys:** DOCX v0.3 → v0.4. 2–3 skyrių išskaidyti aprašai pakeisti šablono logiką atitinkančiomis fazių ir procesų lentelėmis; patikslinta G2 sąlyga: vienetui K-01–K-03, mėnesio kiekiui K-04. Papildyti 5.1.5–5.1.7 renginio, CSR ir poveikio vertinimo procesai, savaitinių peržiūrų bei neatitikčių uždarymo tvarka, 5.3.1 kontrolės protokolas ir 5.3.2 patikrų sąnaudų modelis. Papildyti patvirtinimo ir šaltinių priedai; lentelių numeriai automatiniai. R1–R5, K-01–K-10, E01–E10 ir G0–G4 išlaikyti.
+- **Prielaidos:** nauji patikrų laikai ir terminai yra pasiūlymai. M ir W nenustatyti; C = 106,50×M + 21,50×W + 556,00 EUR apima tik nurodytas patikras. 941,00 EUR yra aiškiai hipotetinis M=2, W=8 pavyzdys, ne patvirtintos išlaidos. 66 716 / 98 474 EUR neatitikimas neišspręstas. Kokybės ribos, vaidmenys, partneriai ir įgyvendinimo grafikas nepatvirtinti.
+- **Rizikų riba:** esamo 6 skyriaus ir 6.1 poskyrio tekstas paliktas nepakeistas; rizikų registras, balai, priemonės ar rezervas nerengti. SP-06 statusas nesikeičia.
+- **Kopijos:** plano PDF eksportuotas tiesiogiai iš atnaujinto DOCX naudojant Word; plano MD ištrauktas iš to paties išsaugoto DOCX. 8 skaidrių PPTX tekstas ir tikros pastabos patikrinti pagal paketo XML, turinys nekeistas; pastabų MD atnaujinta tik suderinimo su v0.4 eilutė. Atnaujinti AGENTS.md ir README.md.
+- **Patikra:** Word atnaujinti turinio, lentelių SEQ ir puslapių laukai; galutinis PDF 23 psl., peržiūrėtas visų puslapių maketas, ištaisytas pavienės pastraipos puslapio lūžis. Patikrinta dviejų sekcijų A4 geometrija, KTU titulinio logotipas, antraščių / poraščių tekstas, rizikų teksto tapatumas, rodiklių aprėptis ir sąnaudų aritmetika. Eksportuota per Word, nes LibreOffice šiame vykdymo pakete nėra; PNG patikrai naudotas `render_docx.py` su Word PDF kaip konvertavimo įvestimi.
+- **Techninė švara:** scenarijai, diagnostika, PDF maketo kopijos ir PNG laikyti privačiame kataloge už projekto ribų. Į projekto aplanką ir archyvą kopijuoti tik tikri dokumentai bei instrukcijos; techninių failų nepalikta.
+- **Liko:** grupės peržiūra ir SP-01–SP-06; M ir naujo W suderinimas, patikrų sąnaudų integravimas be dubliavimo. Faktinių kampanijos ar CSR matavimų nepateikta. Rizikų dalis nepildyta pagal šios užduoties ribą.
+- **Archyvas:** `06_Archyvas/2026-10-28_2147_kokybes_dalis` — ankstesni pakeistų aktualių failų variantai, ne techniniai tarpiniai rezultatai.
+- **Git perdavimas:** pakeitimai parengiami vienam aiškiam commit į esamą `main` šaką; įkėlimo rezultatas tikrinamas sulyginant vietinį HEAD ir `origin/main` / remote `main`.
