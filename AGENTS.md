@@ -8,6 +8,8 @@ Tai ankstesnių semestrų projekto tęsinys. Artimiausia užduotis – **2026-10
 
 **Perduodama versija:** DOCX v0.4, iš jo gautos PDF ir MD kopijos; PDF 23 psl. Pristatymas turi 8 skaidres ir tikrų kalbėjimo pastabų MD. Tai dabartinio rezultato apimtis, o ne privalomas puslapių ar skaidrių skaičius. Pakeitus būseną, atnaujinti šią santrauką ir pakeitimų žurnalą.
 
+**2026-10-29 pateiktos kopijos peržiūra:** pagal žmogaus prašymą perrašytas atskirai pateiktos v1.1 kopijos 5 skyrius. Siūloma v1.2 redakcija: `02_Projekto_ruosinys/Tesla_plano_pateiktos_kopijos_redakcija.docx` (10 psl., 5 skyrius 8–10 psl.). Ji nepakeičia pagrindinio DOCX v0.4 ar jo kopijų. Pateiktos kopijos maketo ir komandos sudėties skirtumai neperkelti į pagrindinį planą; žr. naujausią žurnalo įrašą.
+
 **Liko suderinti:** siauresnę komunikacijos / CSR apimtį, vardinius vaidmenis, aktyvius mėnesius M ir savaites W, naujas rodiklių ribas, partnerius ir datas, finansinių lentelių prieštaravimus. Siūlomas paskirstymas: Kristupas – koordinavimas / renginiai / CSR, Lukas – turinys, Žygimantas – kokybė / duomenys. Tai pasiūlymas, ne patvirtintos pareigos. Atviri sprendimai SP-01–SP-06 išvardyti žurnale.
 
 **Terminai pagal 2026-10-22 peržiūrėtą Moodle:** 2026-10-29 kokybės progresas; 2026-11-26 rizikų progresas; 2026-12-13 23:59 galutinio plano įkėlimas; 2026-12-17 konsultacija; sausį individualus gynimas, tiksli data nepatvirtinta. Vėliau patikrinti oficialius pakeitimus. Pristatymo trukmė ir privalomas skaidrių skaičius nepaskelbti.
